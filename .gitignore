@@ -1,0 +1,20 @@
+
+dumper dumper.exe *.exe *.out
+
+
+*.o *.a *.so *.test *.prof
+
+
+vendor/
+
+
+*.mod *.sum
+
+
+.DS_Store *.swp *.swo .vscode/ .idea/
+
+
+*.cover coverage.out
+
+
+tmp/ *.tmp
